@@ -2,7 +2,7 @@
 
 Authors: Dylan Snyder, Bates Brodie, Batya Stein, Kevin Zheng, and AJ Kawczynski
 
-Time Tables is a employee scheduling application for use by Princeton University Staff and Students, designed as a semester long group project. 
+Time Tables is a employee scheduling application for use by Princeton University student organizations, designed as a collaborative semester long group project for COS333. 
 
 Features include: 
 
